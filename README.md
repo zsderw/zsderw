@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+https://simpleicons.org/
+https://shields.io/
+-->
+
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsderw)](https://github.com/zsderw/github-readme-stats)
+-->
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zsderw)](https://github.com/zsderw/github-readme-stats)
+-->
